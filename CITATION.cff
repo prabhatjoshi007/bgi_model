@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "bgi_model"
+version: 0.1.0
+authors:
+  - family-names: Joshi
+    given-names: Prabhat
+    affiliation: "King's College London"
+# Add the repository URL and the DOI of the associated paper or dataset once they exist.
+repository-code: "https://github.com/prabhatjoshi007/bgi_model"
+# doi: "<paper or dataset DOI>"
